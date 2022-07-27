@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce9d1748-a7f5-45c6-88f3-b705a028b41a": {
+      "ProjectGuid": "ce9d1748-a7f5-45c6-88f3-b705a028b41a",
+      "DisplayName": "Common",
+      "ColorIndex": 0
+    },
+    "42b6c026-6416-4e55-973c-7c9e995cfef5": {
+      "ProjectGuid": "42b6c026-6416-4e55-973c-7c9e995cfef5",
+      "DisplayName": "CommonExamples",
+      "ColorIndex": 1
+    },
+    "fd04d9c9-a4e3-47de-ad3a-69c87ba4c748": {
+      "ProjectGuid": "fd04d9c9-a4e3-47de-ad3a-69c87ba4c748",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "ca17a522-af6d-4aad-bfc0-8d5f657495d0": {
+      "ProjectGuid": "ca17a522-af6d-4aad-bfc0-8d5f657495d0",
+      "DisplayName": "CommonExamples",
+      "ColorIndex": 3
+    },
+    "45ef7414-72e9-4557-95c3-0464472a0476": {
+      "ProjectGuid": "45ef7414-72e9-4557-95c3-0464472a0476",
+      "DisplayName": "UserProfile_DDDExample",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
